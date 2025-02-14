@@ -1,1 +1,1 @@
-Data Science Course Practice Contents
+데이터과학을 위한 기본지식 내용 학습 목록
